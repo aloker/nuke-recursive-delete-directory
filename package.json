@@ -1,0 +1,20 @@
+{
+  "name": "nuke-recursive-delete-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloker/nuke-recursive-delete-directory.git"
+  },
+  "author": "Andre Loker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aloker/nuke-recursive-delete-directory/issues"
+  },
+  "homepage": "https://github.com/aloker/nuke-recursive-delete-directory#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}
